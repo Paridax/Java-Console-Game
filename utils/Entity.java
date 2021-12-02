@@ -1,4 +1,5 @@
 package utils;
+
 public class Entity 
 {
     public int health = 100;
